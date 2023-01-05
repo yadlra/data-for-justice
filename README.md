@@ -1,7 +1,7 @@
 # Data for Justice
 
 
-## Issue: Air pollution and its impact on public health, with a focus on the disproportionate impact on minorities and marginalized communities. 
+## Issue: Air pollution and its impact on public health, with a focus on the disproportionate impact on minorities and marginalized communities in the UK
 
 
 Introduction: Brainstorm questions they have about air pollution and its effects.
